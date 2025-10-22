@@ -32,6 +32,7 @@
         {
            int ris = sommaN();
             Console.WriteLine(ris);
+        
         }
     }
 }
